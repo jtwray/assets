@@ -1,0 +1,72 @@
+plan of attack.
+
+1 list the projects i have completed and get help from chatgpt to pick out the most amazing ones to showcase on portfolio
+
+2 potentially rebrand the portfolio
+-add a new theme , tabs, animations, a blog, etc
+
+3 continue working on current projects
+
+4 lets find a  way to store my blogs in my website
+
+5 update hotkeys and commdna cheatsheets to include:
+du -sh /mnt/c/Users/hp/* | sort -h | column -t     
+
+__/1/
+___/projects list/
+
+C:\Users\hp\Desktop\portfolio redesign\microanimations tab
+
+--apps
+( v1 completed )
+ - (list from findmygithubpages tool)
+ - wamif 
+ 
+ - sheltergaze
+ repo:https://github.com/jtwray/Shelter-Gaze
+ 
+ - findadoc
+
+ - shopify store
+
+ - lightningJS smart tv app (TIZEN/SamsungTV)
+ 
+ - game of life v1 and v2
+ - bentoboxPopsicle animation
+ - 3d carousel word animation
+ - kanyes magic eightball
+ - artificialartist
+
+( v1 not complete )
+ - mercy near me
+ - saints of the world api and ui
+ - rvadventures
+ - appleWebApp
+ - ui components library
+ - dicom to image (viable product?)
+ - christmas list circles ( getyet )
+
+
+
+
+
+
+
+--tools
+ -findmygithubpagestool
+ -createImageFromMagicMarkdownPlugin
+ -RustRemapMouseRightclickToSidebackbtn
+ -docker ubuntu image with adb & scrcpy to setup UsbOtgScreenMirroringForAndroidPhoneWithBrokenScreen
+ -ReactAppArchitectureDecisionTree (aka: "treeofreactarchitecturetypes.txt")
+ -gedcom to json convertor
+ -macros/hotkeys/keyboardshortcuts ( [ctrl]+[alt]+[shift]+[m] => open new chrome browser tab at gmail.com )
+
+--microanimations
+ -C:\Users\hp\Desktop\"portfolio redesign"\microanimations tab
+ - bentoboxPopcicle animation
+ - 3d carousel word animation
+
+__/2/
+
+
+__/3/
